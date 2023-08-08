@@ -5,6 +5,6 @@ public class Hiii {
     {
 
         System.out.println( " Delhi India!" );
-        System.out.println( " Kolkata India!" );
+        System.out.println( " Kolhpur India!" );
     }
 }
